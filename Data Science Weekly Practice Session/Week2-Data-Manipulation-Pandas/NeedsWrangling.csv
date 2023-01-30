@@ -1,0 +1,13 @@
+CustomerID,Firstname,Lastname,Address,City,State,Zip,Email
+1,Billy,Davis,121 Main St,Prescott,AZ,86305,Bd@dma.net
+2,Betty,Davis,121 Main Street,Prescott,AZ,86305,db2@dma.net
+3,William,Franklin,120 Miller St,Prescott,AZ,86303,wf@dma.net
+4,John,Smith,3331 Main St,prescott,az,86302,js@dma.net
+5,Besty,Watson,121 Main,Prescott,Az,86305,bw@dma.net
+6,Louis,Davis,121 Main Str,Prescott,az,8601,ld@dma.net
+7,Oscar,Swane,333 Main St,Prescott,AZ,86302,os@dma.net
+8,Allen,Lawson,555 Penelope,Prescott,AZ,86305,al@dma.net
+1,Billy,Davis,121 Main St,Prescott,AZ,86305,Bd@dma.net
+6,Louis,Davis,121 Main Str,Prescott,az,8601,ld@dma.net
+11,Laurie,Wallace,1 Gatsby,Prescott,AZ,86305,lw@dma.net
+12,  William,Frank ,   5 West Smith,Prescutt,AZ,86305,wf@dma.net
