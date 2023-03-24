@@ -1,0 +1,20 @@
+﻿restaurant,item,calories,cal_fat,total_fat,sat_fat,cholesterol,sodium,total_carb,fiber,sugar,protein,vit_a,vit_c,calcium
+Mcdonalds,Artisan Grilled Chicken Sandwich,380,60,7,2,95,1110,44,3,11,37,4,20,20
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,280,31,10,155,1940,62,2,18,55,6,25,20
+Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,920,410,45,12,120,1980,81,4,18,46,6,20,20
+Mcdonalds,Big Mac,540,250,28,10,80,950,46,3,9,25,10,2,15
+Mcdonalds,Cheeseburger,300,100,12,5,40,680,33,2,7,15,10,2,10
+Mcdonalds,Classic Chicken Sandwich,510,210,24,4,65,1040,49,3,6,25,0,4,2
+Mcdonalds,Filet-O-Fish,380,170,18,4,40,640,38,2,5,15,2,0,15
+Mcdonalds,Hamburger,250,70,8,3,30,480,31,2,6,13,2,2,4
+Mcdonalds,Lobster Roll,290,50,5,1.5,65,630,35,2,3,24,4,6,15
+Mcdonalds,McChicken,350,130,15,3.5,40,600,40,2,5,15,2,2,4
+Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,680,280,32,7,80,1430,69,6,12,31,8,15,30
+Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,200,23,5,60,1050,64,4,11,28,4,10,20
+Mcdonalds,Signature Sriracha Burger,670,320,35,12,95,1010,56,4,13,32,20,15,30
+Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,180,20,5,115,1550,56,4,14,41,20,25,30
+Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,320,36,9,95,1820,80,5,18,39,4,20,30
+Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480,250,28,4.5,95,1290,21,0,1,38,0,0,2
+Mcdonalds,4 Piece Chicken McNuggets,180,100,11,2,30,340,11,1,0,10,0,2,0
+Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640,240,27,4,105,1780,63,2,35,39,4,15,4
+Mcdonalds,Premium Asian Salad w/o Chicken,140,70,7,0.5,0,20,13,5,7,7,180,45,10
